@@ -2,8 +2,8 @@
  * Universidad de las Fuerzas Armadas "ESPE"
  * Enunciado: Ingreso Datos Char
  * Autor: Leandro Mendoza
- * Fecha de Creación: 7 de Noviembre del 2024
- * Fecha de Modificación: 7 de Noviembre del 2024
+ * Fecha de Creacion: 7 de Noviembre del 2024
+ * Fecha de Modificacion: 7 de Noviembre del 2024
  * NRC: 1978
  * Curso: Estructura de Datos
  * Docente: Edgar Solis
